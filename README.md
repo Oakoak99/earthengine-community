@@ -16,12 +16,7 @@ limitations under the License.
 
 # Google Earth Engine Community <!--[![Build Status](https://travis-ci.org/google/earthengine-community.svg?branch=master)](https://travis-ci.org/google/earthengine-community)-->
 
-This repository contains content submitted and/or maintained by the Earth Engine
-developer community.
-
-## Community Tutorials
-
-* [Browse tutorials][tutorials]
+This repository contains contentorials]
 * [Request a tutorial][request]
 * [Submit a tutorial][write]
 
